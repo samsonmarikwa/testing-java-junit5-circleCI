@@ -8,7 +8,7 @@ jobs:
     docker:
       # specify the version you desire here
 #      - image: circleci/openjdk:8-jdk
-      - image: adoptopenjdk:12.0.1_12-jdk-hotspo
+      - image: circleci/adoptopenjdk:12.0.1_12-jdk-hotspo
 
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
